@@ -21,7 +21,7 @@ The deliverable is a fully documented platform architecture — not an implement
 
 ## 🏗️ Architecture Overview
 
-!banco-wild-west-architecture.png
+![Banco Wild West Architecture](banco_wildwest_architecture.png)
 
 The platform is structured across 7 layers, each serving a distinct function in the data lifecycle:
 
